@@ -1,8 +1,4 @@
-// git init
-// git status 
-// git add .
-// git commit -m "message"
-// git log
-// git diff file name
-
-//Just random stuff
+lhihguiyfdt
+kjuifuy
+hgyu4
+Tanmay
