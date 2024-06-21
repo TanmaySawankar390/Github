@@ -1,2 +1,3 @@
 i recently learned branching and merging
 I have froked for the first time.
+now im trying merge this with my original repository.
